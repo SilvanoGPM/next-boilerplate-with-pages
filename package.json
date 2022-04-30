@@ -39,6 +39,6 @@
     "typescript": "^4.6.4"
   },
   "lint-staged": {
-    "src/**/*": ["yarn lint --fix", "yarn test --findRelatedTests --bail"]
+    "src/**/*": ["yarn lint --fix", "yarn test --findRelatedTests --passWithNoTests --bail"]
   }
 }
