@@ -10,6 +10,7 @@ const nextConfig = {
 
 module.exports = withPWA({
   ...nextConfig,
+  swcMinify: true,
   pwa: {
     dest: 'public',
     disable: !isProduction,
