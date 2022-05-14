@@ -28,6 +28,6 @@ npx create-next-app -e https://github.com/SkyG0D/next-boilerplate
 yarn create next-app -e https://github.com/SkyG0D/next-boilerplate
 ```
 
-# Contributions :heart:
+## Contributions :heart:
 
 Open a PR to contribute to the project.
