@@ -5,18 +5,18 @@
   <img src="public/icons/android-chrome-192x192.png" />
 </p>
 
-## Already configured :gear:
+## ⚙️ Already configured
 
 - Typescript
 - Jest
 - React Testing Library
-- PWA Support.
-- ESLint.
-- Prettier.
+- PWA Support
+- ESLint
+- Prettier
 - Editorconfig
-- Husky.
+- Husky
 
-## How to use :hammer:
+## 🔨 How to use
 
 In terminal use:
 
@@ -28,6 +28,6 @@ npx create-next-app -e https://github.com/SkyG0D/next-boilerplate
 yarn create next-app -e https://github.com/SkyG0D/next-boilerplate
 ```
 
-## Contributions :heart:
+## ❤️ Contributions
 
 Open a PR to contribute to the project.
