@@ -22,10 +22,10 @@ In terminal use:
 
 ```bash
 # npm
-npx create-next-app -e https://github.com/SkyG0D/next-boilerplate
+npx create-next-app -e https://github.com/SilvanoGPM/next-boilerplate
 
 # yarn
-yarn create next-app -e https://github.com/SkyG0D/next-boilerplate
+yarn create next-app -e https://github.com/SilvanoGPM/next-boilerplate
 ```
 
 ## ❤️ Contributions
