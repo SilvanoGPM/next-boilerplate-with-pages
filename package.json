@@ -8,7 +8,7 @@
     "lint": "eslint src --max-warnings=0",
     "prepare": "husky install",
     "test": "jest",
-    "test:watch": "npm run test --watch"
+    "test:watch": "npm run test -- --watch"
   },
   "dependencies": {
     "next": "^13.1.2",
@@ -42,8 +42,8 @@
   },
   "lint-staged": {
     "src/**/*.ts(x)": [
-      "npm run lint --fix",
-      "npm run test --findRelatedTests --passWithNoTests --bail"
+      "npm run lint -- --fix",
+      "npm run test -- --findRelatedTests --passWithNoTests --bail"
     ]
   }
 }
