@@ -11,6 +11,8 @@
 - Jest
 - React Testing Library
 - PWA Support
+- SEO Support
+- TopLoader
 - ESLint
 - Prettier
 - Editorconfig
